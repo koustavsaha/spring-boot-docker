@@ -5,3 +5,4 @@ kubectl create cm maven-settings --from-file=settings.xml=Resources/maven-settin
 
 sssd
 s
+s
