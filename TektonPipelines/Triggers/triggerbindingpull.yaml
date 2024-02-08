@@ -7,7 +7,7 @@ spec:
   - name: repo-url
     value: $(body.repository.html_url)
   - name: tag-name
-    value: $(body.repository.default_branch)
+    value: $(body.pull_request.head.ref)
   - name: image-full-path-with-tag
     value: quay.io/rh-ee-ksaha/test:$(body.pull_request.head.sha)
   - name: deployment-manifest
