@@ -1,4 +1,4 @@
-## Package, Build Docker Image & Run Spring Boot Apps
+## Package, Build Docker Image & Run Spring Boot Appss
 
 ```sh
 # Package
