@@ -1,7 +1,5 @@
 ## Package, Build Docker Image & Run Spring Boot Apps
 
-### By Mavena
-
 ```sh
 # Package
 $ mvn package -Dmaven.test.skip=true
