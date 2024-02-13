@@ -1,6 +1,6 @@
 ## Package, Build Docker Image & Run Spring Boot Apps
 
-### By Maven
+### By Mavena
 
 ```sh
 # Package
