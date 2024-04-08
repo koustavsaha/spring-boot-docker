@@ -1,4 +1,4 @@
-## Package, Build Docker Image & Run Spring Boot App
+## Package, Build Docker Image & Run Spring Boot Apps
 ```sh
 # Packageas
 $ mvn package -Dmaven.test.skip=true
