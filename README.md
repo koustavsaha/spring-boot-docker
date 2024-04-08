@@ -1,6 +1,6 @@
 ## Package, Build Docker Image & Run Spring Boot Appssfsefssssssswdfa
 ```sh
-# Package
+# Packageas
 $ mvn package -Dmaven.test.skip=true
 
 # Build Docker image
